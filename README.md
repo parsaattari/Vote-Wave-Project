@@ -22,7 +22,7 @@ VoteWave is a modern, user-friendly web application designed to increase youth v
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/votewave.git
+git clone https://github.com/parsaattari/Vote-Wave-Project.git
 cd votewave
 ```
 
